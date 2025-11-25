@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// 歐幾里得遞迴函數
 int gcd(int a, int b) {
     if (b == 0)
         return a;
